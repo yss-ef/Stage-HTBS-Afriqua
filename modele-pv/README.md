@@ -35,6 +35,7 @@ Accueil → Configuration → Modules/Applications.
 | Libellé              | Code de l'attribut | Type                           |
 
 | :------------------- | :----------------- | :----------------------------- |
+| **Type d’intervention**        | `typeintervention`        | Chaîne de caractères (1 ligne) |
 
 | **Intervenant**      | `intervenant`      | Chaîne de caractères (1 ligne) |
 
