@@ -1,17 +1,21 @@
-# Stage-HTBS-Afriqua
-Ce dépôt contient une collection de modules personnalisés pour l'ERP Dolibarr, développés lors d'un stage chez HTBS Africa.
+# 📂 Modules Dolibarr | Stage HTBS Africa
+
+Ce dépôt contient une collection de modules personnalisés pour l'ERP **Dolibarr**, développés lors d'un stage chez **HTBS Africa**.
 
 ---
 
-# Modules Inclus
+## 🧩 Modules Inclus
+
 Ce projet est composé des modules suivants :
-* **Module-1_Tresorerie:** Module pour la gestion de la trésorerie.
 
-* **Module-2_Ventile:** Module pour la ventilation.
+-   **💰 Trésorerie (`Module-1_Tresorerie`)**
+    -   Un module complet pour la gestion de la trésorerie.
 
-* **Module-3-CustomTax:** Module pour la gestion de taxes personnalisées.
+-   **📊 Ventilation (`Module-2_Ventile`)**
+    -   Module conçu pour effectuer des opérations de ventilation comptable.
 
-* **modele-pv-intervention:** Modèle de procès-verbal d'intervention.
+-   **🧾 Taxes Personnalisées (`Module-3-CustomTax`)**
+    -   Permet la création et la gestion de taxes personnalisées non natives à Dolibarr.
 
----
-
+-   **📋 Modèle de PV d'Intervention (`modele-pv-intervention`)**
+    -   Un modèle de document pour générer des procès-verbaux suite à une intervention.
